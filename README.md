@@ -6,6 +6,8 @@ Two **Mbot robots compete along a track** by solving questions displayed on **iP
 
 🎯 *The game was highly appreciated and requested for a showcase at the Saudi Communications and Space Authority event!* 💚
 
+[🎥 Demo video available
+](https://github.com/safimoh1993-star/-Mbot-Robot-Race-Educational-IoT-Game/blob/main/IMG_4510.MOV)
 ---
 
 ## ⚙️ Key Features
