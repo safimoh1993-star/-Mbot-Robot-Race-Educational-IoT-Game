@@ -1,16 +1,32 @@
-compete along a track by solving questions on iPads linked to the robots.
+# 🤖 Mbot Robot Race – Educational IoT Game
 
-The game promotes coding, problem-solving, and STEM learning in a fun, competitive environment. It received high appreciation and was requested to be showcased at the Saudi Communications and Space Authority event.
+An interactive educational game designed and implemented by **Safia Mohammed Al-Qarni**.  
 
-🎯 Key Features:
+Two **Mbot robots compete along a track** by solving questions displayed on **iPads linked to the robots**. The project promotes coding, problem-solving, and STEM learning in a fun and competitive way.  
 
-Interactive robot race using Mbot robots
+🎯 *The game was highly appreciated and requested for a showcase at the Saudi Communications and Space Authority event!* 💚
 
-Questions integrated via iPad apps
+---
 
-Promotes coding, critical thinking, and STEM learning
+## ⚙️ Key Features
+- Interactive Mbot robot race  
+- iPad-connected questions to guide robot movement  
+- Encourages coding, critical thinking, and STEM learning  
+- Engaging for children  
 
-Engaging and fun for children
+---
 
+## 💡 How It Works
+1. Robots are placed on a race track.  
+2. Children solve questions on iPads linked to the robots.  
+3. Correct answers make the robot advance along the track.  
+4. The first robot to finish the track wins.  
 
-— Riyadh, Saudi Arabia
+---
+
+## ✨ Credits
+**Designer & Developer:** Safia Mohammed Al-Qarni  
+**Event:** Saudi Communications and Space Authority  
+**Audience:** Children & Students – Riyadh, Saudi Arabia  
+
+> “This interactive project combines coding, learning, and fun for children — a successful educational innovation.” 💚
